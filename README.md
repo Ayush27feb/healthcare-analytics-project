@@ -41,6 +41,8 @@ The Power BI dashboard is organized across 5 pages:
 - Billing & Revenue – revenue trends by department, payment mode, and insurance provider
 - Business Insights – key takeaways from across the hospital's operations
 
+📄 Dashboard Overview & Business Insights For a complete view of all dashboard pages(Executive Dashboard,Patients Analytics ,	Doctor & Department Performance,Billing & Revenue,Business Insights) see:dashboard view.pdf
+
 
 
 🧮 SQL Analysis
