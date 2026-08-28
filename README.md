@@ -57,7 +57,7 @@ SQL was used to perform:
 - Business KPI queries combining multiple tables for executive-level summaries
 
 The complete SQL queries are available in:
-`healthcare_questions.sql`
+`healthcare sql.sql`
 
 🔍 Key Insights
 
@@ -78,7 +78,7 @@ The complete SQL queries are available in:
 - `appointment.csv`
 - `billing.csv`
 - `prescriptions.csv`
-- `healthcare sql`
+- `healthcare sql.sql`
 - `Healthcare.pbix`
 - `dashboard view`
 
