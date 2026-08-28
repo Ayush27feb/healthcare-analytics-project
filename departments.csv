@@ -1,0 +1,13 @@
+Department_Id,Department_Name,Floor_Number
+DEPT001,Cardiology,2
+DEPT002,Neurology,1
+DEPT003,Orthopedics,5
+DEPT004,Pediatrics,4
+DEPT005,Oncology,4
+DEPT006,"General medicine",3
+DEPT007,Dermatology,2
+DEPT008,"Suhani Swaminathan",2
+DEPT009,Gynecology,7
+DEPT010,Urology,1
+DEPT012,Psychiatry,1
+DEPT012,Emergency,2
