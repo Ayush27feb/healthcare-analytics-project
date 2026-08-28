@@ -61,11 +61,12 @@ The complete SQL queries are available in:
 
 🔍 Key Insights
 
-key insights in Dashboard view PDF
-
-- 
-- 
-- 
+. Female patients represent (54.72%) of all patients, followed by Male (45.28%) .
+.The ENT department has the highest appointment cancellation rate (22.86%).
+. The overall appointment cancellation rate is 19.59%, meaning about 1 in 5 appointments are cancelled.
+. UPI is the most used payment method and contributes 40.52% of the total revenue.
+. The hospital earned the highest revenue in 2024, with around ₹48M.
+. Pending payments are around 58% of the total revenue, showing that many payments are still waiting to be collected.
 
 📁 Project Files
 
